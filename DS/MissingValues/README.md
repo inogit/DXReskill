@@ -2,7 +2,7 @@
 
 この演習では、データセットの欠損値に対する処理を学びます。
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/inogit/DXReskill/blob/main/DS/Regression/icesales.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/inogit/DXReskill/blob/main/DS/MissingValues/missingValue.ipynb)
 
 ## データセット
 

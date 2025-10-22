@@ -2,8 +2,8 @@
 
 この演習では、データセットの欠損値に対する処理を学びます。
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/inogit/DXReskill/blob/main/DS/MissingValues/missingValue.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/inogit/DXReskill/blob/main/DS/DataVisualization/DataVisualization.ipynb)
 
 ## データセット
 
-`./datasets/ice3.csv` を使用します。
+`./datasets/Egg_Production.csv` を使用します。

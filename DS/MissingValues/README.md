@@ -4,3 +4,6 @@
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/inogit/DXReskill/blob/main/DS/Regression/icesales.ipynb)
 
+## データセット
+
+`./datasets/ice3.csv` を使用します。
